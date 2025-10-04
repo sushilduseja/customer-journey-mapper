@@ -25,7 +25,7 @@ export function CaseStudy() {
           </div>
           <h2 className="text-4xl mb-4 text-slate-900">The Great Onboarding Resurrection</h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            How QuickPay transformed a 60% user graveyard into a 71% activation success story
+            How AnonymousPay transformed a 60% user graveyard into a 71% activation success story
           </p>
         </motion.div>
 
@@ -47,7 +47,7 @@ export function CaseStudy() {
               <Card className="p-6 border-l-4 border-red-500">
                 <h3 className="text-xl mb-2 text-slate-900">Chapter 1: The Graveyard</h3>
                 <p className="text-slate-600 mb-4">
-                  FinTech startup "QuickPay" was bleeding users. Their onboarding was a graveyard—
+                  FinTech startup "AnonymousPay" was bleeding users. Their onboarding was a graveyard—
                   <strong className="text-red-600"> 60% of sign-ups never completed activation</strong>. 
                   The team met weekly to debate why, armed with conflicting data from multiple tools. 
                   Every meeting ended the same: more questions, no answers.
@@ -224,8 +224,8 @@ export function CaseStudy() {
                       <span className="text-white">MW</span>
                     </div>
                     <div>
-                      <div className="text-slate-900">Marcus Williams</div>
-                      <div className="text-sm text-slate-600">Chief Experience Officer, QuickPay</div>
+                      <div className="text-slate-900">Anonymous</div>
+                      <div className="text-sm text-slate-600">Chief Experience Officer, AnonymousPay</div>
                     </div>
                   </div>
                 </div>

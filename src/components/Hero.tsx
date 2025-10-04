@@ -27,7 +27,7 @@ export function Hero() {
           
           <p className="text-xl text-slate-600 mb-12 max-w-3xl mx-auto leading-relaxed">
             A no-code visual platform that transforms fragmented user journey insights into living, 
-            actionable maps—where friction points glow, feedback flows, and improvements measure themselves.
+            actionable maps -- where friction points glow, feedback flows, and improvements measure themselves.
           </p>
           
           <div className="flex items-center justify-center gap-4">
